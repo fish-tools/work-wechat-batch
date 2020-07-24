@@ -84,3 +84,6 @@ clearMemoInputButton = 'clear_memo_input_button.png'
 sendFriendRequestButton = 'send_friend_request_button.png'
 
 ```
+
+**联系作者**  
+加微信交流：ToryLoveFish
